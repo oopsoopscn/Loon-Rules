@@ -1,0 +1,40 @@
+# =========================
+# 字节系核心业务
+# =========================
+DOMAIN-SUFFIX,douyin.com,DIRECT
+DOMAIN-SUFFIX,amemv.com,DIRECT
+DOMAIN-SUFFIX,iesdouyin.com,DIRECT
+DOMAIN-SUFFIX,ixigua.com,DIRECT
+DOMAIN-SUFFIX,huoshan.com,DIRECT
+DOMAIN-SUFFIX,feigua.cn,DIRECT
+
+# =========================
+# 红果短剧（重点）
+# =========================
+DOMAIN-SUFFIX,redguo.com,DIRECT
+DOMAIN-SUFFIX,hongguo.com,DIRECT
+
+# =========================
+# 字节API / 接口层
+# =========================
+DOMAIN-SUFFIX,snssdk.com,DIRECT
+DOMAIN-SUFFIX,zijieapi.com,DIRECT
+DOMAIN-SUFFIX,byteoversea.com,DIRECT
+DOMAIN-SUFFIX,bytedance.com,DIRECT
+DOMAIN-SUFFIX,ibytedapm.com,DIRECT
+
+# =========================
+# CDN / 图片 / 视频
+# =========================
+DOMAIN-SUFFIX,byteimg.com,DIRECT
+DOMAIN-SUFFIX,bytecdn.com,DIRECT
+DOMAIN-SUFFIX,bytefcdn.com,DIRECT
+DOMAIN-SUFFIX,zijiecdn.com,DIRECT
+DOMAIN-SUFFIX,pstatp.com,DIRECT
+DOMAIN-SUFFIX,bdxiguastatic.com,DIRECT
+
+# =========================
+# 直播 / 推荐 / 埋点
+# =========================
+DOMAIN-SUFFIX,bytegoofy.com,DIRECT
+DOMAIN-SUFFIX,abtest.cn,DIRECT
