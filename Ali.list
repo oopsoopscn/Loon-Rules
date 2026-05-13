@@ -1,0 +1,39 @@
+# =========================
+# Alibaba
+# =========================
+
+# Core
+DOMAIN-SUFFIX,alibaba.com,DIRECT
+DOMAIN-SUFFIX,aliyun.com,DIRECT
+DOMAIN-SUFFIX,alicdn.com,DIRECT
+DOMAIN-SUFFIX,alicdn.net,DIRECT
+DOMAIN-SUFFIX,aliyuncs.com,DIRECT
+
+# Taobao / Tmall
+DOMAIN-SUFFIX,taobao.com,DIRECT
+DOMAIN-SUFFIX,tmall.com,DIRECT
+DOMAIN-SUFFIX,tbcdn.com,DIRECT
+DOMAIN-SUFFIX,taobaocdn.com,DIRECT
+
+# Alipay
+DOMAIN-SUFFIX,alipay.com,DIRECT
+DOMAIN-SUFFIX,alipayobjects.com,DIRECT
+
+# Eleme
+DOMAIN-SUFFIX,ele.me,DIRECT
+DOMAIN-SUFFIX,eleme.cn,DIRECT
+
+# DingTalk
+DOMAIN-SUFFIX,dingtalk.com,DIRECT
+DOMAIN-SUFFIX,dingtalkapps.com,DIRECT
+
+# Youku
+DOMAIN-SUFFIX,youku.com,DIRECT
+DOMAIN-SUFFIX,youkuimg.com,DIRECT
+
+# Amap
+DOMAIN-SUFFIX,amap.com,DIRECT
+DOMAIN-SUFFIX,autonavi.com,DIRECT
+
+# Cainiao
+DOMAIN-SUFFIX,cainiao.com,DIRECT
