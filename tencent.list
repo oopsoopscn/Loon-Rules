@@ -1,68 +1,48 @@
 # =========================
-# 腾讯核心业务
+# Tencent
 # =========================
-DOMAIN-SUFFIX,qq.com,DIRECT
-DOMAIN-SUFFIX,weixin.qq.com,DIRECT
-DOMAIN-SUFFIX,wx.qq.com,DIRECT
-DOMAIN-SUFFIX,qzone.qq.com,DIRECT
-DOMAIN-SUFFIX,tim.qq.com,DIRECT
+
+# Core
 DOMAIN-SUFFIX,tencent.com,DIRECT
-
-# =========================
-# QQ音乐 / 腾讯视频 / QQ浏览器
-# =========================
-DOMAIN-SUFFIX,music.qq.com,DIRECT
-DOMAIN-SUFFIX,c.qmc.com,DIRECT
-DOMAIN-SUFFIX,qqmusic.qq.com,DIRECT
-DOMAIN-SUFFIX,v.qq.com,DIRECT
-DOMAIN-SUFFIX,live.qq.com,DIRECT
-DOMAIN-SUFFIX,qqbrowser.qq.com,DIRECT
-
-# =========================
-# 微信生态
-# =========================
-DOMAIN-SUFFIX,weixin.com,DIRECT
-DOMAIN-SUFFIX,wximg.cn,DIRECT
-DOMAIN-SUFFIX,weixinimg.com,DIRECT
-DOMAIN-SUFFIX,tenpay.com,DIRECT
-DOMAIN-SUFFIX,wx.qlogo.cn,DIRECT
-DOMAIN-SUFFIX,mp.weixin.qq.com,DIRECT
-
-# =========================
-# QQ IM / 社交
-# =========================
-DOMAIN-SUFFIX,im.qq.com,DIRECT
-DOMAIN-SUFFIX,pay.qq.com,DIRECT
+DOMAIN-SUFFIX,qq.com,DIRECT
 DOMAIN-SUFFIX,gtimg.com,DIRECT
+DOMAIN-SUFFIX,gtimg.cn,DIRECT
 DOMAIN-SUFFIX,qpic.cn,DIRECT
-DOMAIN-SUFFIX,open.qq.com,DIRECT
-DOMAIN-SUFFIX,web2.qq.com,DIRECT
-DOMAIN-SUFFIX,qzonestyle.gtimg.cn,DIRECT
-
-# =========================
-# 企业服务
-# =========================
-DOMAIN-SUFFIX,work.weixin.qq.com,DIRECT
-DOMAIN-SUFFIX,larkoffice.com,DIRECT
-DOMAIN-SUFFIX,exmail.qq.com,DIRECT
+DOMAIN-SUFFIX,myqcloud.com,DIRECT
 DOMAIN-SUFFIX,qcloud.com,DIRECT
 DOMAIN-SUFFIX,cloud.tencent.com,DIRECT
 
-# =========================
-# 游戏 / 直播
-# =========================
-DOMAIN-SUFFIX,qqgame.qq.com,DIRECT
-DOMAIN-SUFFIX,game.qq.com,DIRECT
-DOMAIN-SUFFIX,ifanr.com,DIRECT
-DOMAIN-SUFFIX,live.qq.com,DIRECT
-DOMAIN-SUFFIX,pvp.qq.com,DIRECT
+# WeChat
+DOMAIN-SUFFIX,weixin.com,DIRECT
+DOMAIN-SUFFIX,weixin.qq.com,DIRECT
+DOMAIN-SUFFIX,wechat.com,DIRECT
+DOMAIN-SUFFIX,wechatapp.com,DIRECT
+DOMAIN-SUFFIX,wechatpay.com,DIRECT
+DOMAIN-SUFFIX,wximg.cn,DIRECT
+DOMAIN-SUFFIX,weixinimg.com,DIRECT
 
-# =========================
-# CDN / 静态资源
-# =========================
-DOMAIN-SUFFIX,gtimg.cn,DIRECT
-DOMAIN-SUFFIX,qpic.cn,DIRECT
-DOMAIN-SUFFIX,tenimg.com,DIRECT
-DOMAIN-SUFFIX,qqopenapp.com,DIRECT
-DOMAIN-SUFFIX,tenpaylog.com,DIRECT
-DOMAIN-SUFFIX,cdnqq.com,DIRECT
+# QQ / Mail
+DOMAIN-SUFFIX,imqq.com,DIRECT
+DOMAIN-SUFFIX,qqmail.com,DIRECT
+DOMAIN-SUFFIX,foxmail.com,DIRECT
+
+# Tenpay
+DOMAIN-SUFFIX,tenpay.com,DIRECT
+DOMAIN-SUFFIX,tenpay.cn,DIRECT
+
+# Video / Music
+DOMAIN-SUFFIX,v.qq.com,DIRECT
+DOMAIN-SUFFIX,music.qq.com,DIRECT
+DOMAIN-SUFFIX,y.qq.com,DIRECT
+
+# Games
+DOMAIN-SUFFIX,pvp.qq.com,DIRECT
+DOMAIN-SUFFIX,game.qq.com,DIRECT
+
+# Docs / Meeting
+DOMAIN-SUFFIX,docs.qq.com,DIRECT
+DOMAIN-SUFFIX,meeting.tencent.com,DIRECT
+
+# CDN
+DOMAIN-SUFFIX,cdn.qq.com,DIRECT
+DOMAIN-SUFFIX,cdn-go.cn,DIRECT
