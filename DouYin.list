@@ -1,0 +1,206 @@
+# ==================================================
+# ByteDance / Douyin Ultimate RuleSet
+# 国内字节全家桶 · 去重整合最终版
+# 适用于：Loon / Surge / Clash
+# 纯规则版（无策略）
+# ==================================================
+
+
+# ==================================================
+# 1️⃣ 抖音核心业务
+# ==================================================
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinsdk.com
+DOMAIN-SUFFIX,douyinact.com
+DOMAIN-SUFFIX,amemv.com
+
+
+# ==================================================
+# 2️⃣ 今日头条 / 信息流
+# ==================================================
+DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,toutiaoimg.com
+DOMAIN-SUFFIX,ttwebview.com
+
+
+# ==================================================
+# 3️⃣ 西瓜视频
+# ==================================================
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,xiguavideo.com
+DOMAIN-SUFFIX,bdxiguastatic.com
+DOMAIN-SUFFIX,byted-static.com
+
+
+# ==================================================
+# 4️⃣ 剪映 / CapCut
+# ==================================================
+DOMAIN-SUFFIX,jianying.com
+DOMAIN-SUFFIX,jianyingapp.com
+DOMAIN-SUFFIX,lvjianying.com
+DOMAIN-SUFFIX,capcut.com
+
+
+# ==================================================
+# 5️⃣ 红果短剧
+# ==================================================
+DOMAIN-SUFFIX,redguo.com
+DOMAIN-SUFFIX,hongguo.com
+DOMAIN-SUFFIX,redshort.com
+
+
+# ==================================================
+# 6️⃣ 番茄小说 / 阅读体系
+# ==================================================
+DOMAIN-SUFFIX,fanqienovel.com
+DOMAIN-SUFFIX,fanqiesdk.com
+DOMAIN-SUFFIX,fanqieapi.com
+
+DOMAIN-SUFFIX,qznovel.com
+DOMAIN-SUFFIX,qznovelvod.com
+DOMAIN-SUFFIX,qznovelpic.com
+DOMAIN-SUFFIX,qznovelcdn.com
+
+DOMAIN-SUFFIX,reading.snssdk.com
+DOMAIN-SUFFIX,novel.snssdk.com
+DOMAIN-SUFFIX,readingapi.com
+DOMAIN-SUFFIX,novelapi.com
+
+DOMAIN-SUFFIX,readingimg.com
+DOMAIN-SUFFIX,readingcdn.com
+DOMAIN-SUFFIX,novelstatic.com
+DOMAIN-SUFFIX,novelpic.com
+
+DOMAIN-SUFFIX,novelvod.com
+DOMAIN-SUFFIX,reading-video.com
+DOMAIN-SUFFIX,readingvod.com
+DOMAIN-SUFFIX,shortdramavod.com
+
+
+# ==================================================
+# 7️⃣ 字节核心 API / SDK / 接口层
+# ==================================================
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ibytedapm.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytegoofy.com
+DOMAIN-SUFFIX,abtest.cn
+DOMAIN-SUFFIX,pangolin-sdk.com
+
+
+# ==================================================
+# 8️⃣ CDN / 图片 / 视频资源
+# ==================================================
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,bytecdn.com
+DOMAIN-SUFFIX,bytefcdn.com
+DOMAIN-SUFFIX,zijiecdn.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,ibytecdn.com
+
+
+# ==================================================
+# 9️⃣ 火山引擎 / Volcengine
+# ==================================================
+DOMAIN-SUFFIX,volcengine.com
+DOMAIN-SUFFIX,volccdn.com
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,bytehouse.cn
+
+DOMAIN-SUFFIX,volcgslb.com
+DOMAIN-SUFFIX,edgevolc.com
+DOMAIN-SUFFIX,volcgtm.com
+
+
+# ==================================================
+# 🔟 HTTPDNS / 智能解析
+# ==================================================
+DOMAIN-SUFFIX,bytefcdnrd.com
+DOMAIN-SUFFIX,bsync.snssdk.com
+
+DOMAIN-SUFFIX,tnc0-aliec2.zijieapi.com
+DOMAIN-SUFFIX,tnc1-aliec2.zijieapi.com
+DOMAIN-SUFFIX,tnc3-aliec2.zijieapi.com
+DOMAIN-SUFFIX,tnc6-aliec2.zijieapi.com
+
+
+# ==================================================
+# 11 TNC 动态调度
+# ==================================================
+DOMAIN-SUFFIX,tnc16-platform-useast1a.byteoversea.net
+DOMAIN-SUFFIX,tnc16-platform-cflog.byteoversea.net
+DOMAIN-SUFFIX,tncstatic.com
+DOMAIN-SUFFIX,tnccdn.com
+
+
+# ==================================================
+# 12 视频调度 / QUIC / HLS
+# ==================================================
+DOMAIN-SUFFIX,pull-flv-f11.douyincdn.com
+DOMAIN-SUFFIX,pull-hls-f11.douyincdn.com
+DOMAIN-SUFFIX,pull-rtmp-f11.douyincdn.com
+DOMAIN-SUFFIX,pull-webcast.douyincdn.com
+
+
+# ==================================================
+# 13 Webcast / 直播体系
+# ==================================================
+DOMAIN-SUFFIX,webcast.amemv.com
+DOMAIN-SUFFIX,webcast.bytedance.com
+DOMAIN-SUFFIX,webcaststatic.com
+DOMAIN-SUFFIX,webcastpic.com
+DOMAIN-SUFFIX,webcastvod.com
+
+
+# ==================================================
+# 14 RTC 实时音视频
+# ==================================================
+DOMAIN-SUFFIX,rtc.bytedance.com
+DOMAIN-SUFFIX,rtc-api.bytedance.com
+DOMAIN-SUFFIX,rtc-push.bytedance.com
+DOMAIN-SUFFIX,rtc-pull.bytedance.com
+
+
+# ==================================================
+# 15 推荐系统 / Feed / 埋点
+# ==================================================
+DOMAIN-SUFFIX,mon.snssdk.com
+DOMAIN-SUFFIX,log.snssdk.com
+DOMAIN-SUFFIX,xlog.snssdk.com
+DOMAIN-SUFFIX,extlog.snssdk.com
+
+DOMAIN-SUFFIX,abtest.bytedance.com
+DOMAIN-SUFFIX,ug.snssdk.com
+DOMAIN-SUFFIX,feedcoopapi.com
+
+
+# ==================================================
+# 16 Push / 长连接
+# ==================================================
+DOMAIN-SUFFIX,push.snssdk.com
+DOMAIN-SUFFIX,push.bytedance.com
+DOMAIN-SUFFIX,pull.snssdk.com
+
+
+# ==================================================
+# 17 动态资源调度
+# ==================================================
+DOMAIN-SUFFIX,p3-pc-sign.douyinpic.com
+DOMAIN-SUFFIX,p6-sign.douyinpic.com
+DOMAIN-SUFFIX,v3-dy-o.zjcdn.com
+DOMAIN-SUFFIX,v6-dy.ixigua.com
+
+
+# ==================================================
+# 18️⃣ 风控 / 安全校验
+# ==================================================
+DOMAIN-SUFFIX,security.snssdk.com
+DOMAIN-SUFFIX,verify.snssdk.com
+DOMAIN-SUFFIX,risk.bytedance.com
