@@ -199,8 +199,15 @@ DOMAIN-SUFFIX,v6-dy.ixigua.com
 
 
 # ==================================================
-# 18️⃣ 风控 / 安全校验
+# 18 风控 / 安全校验
 # ==================================================
 DOMAIN-SUFFIX,security.snssdk.com
 DOMAIN-SUFFIX,verify.snssdk.com
 DOMAIN-SUFFIX,risk.bytedance.com
+# ==================================================
+# 19 边缘 CDN / 海外调度
+# ==================================================
+DOMAIN-SUFFIX,akamai.net
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,edgekey.net
+DOMAIN-SUFFIX,edgesuite.net
