@@ -1,0 +1,79 @@
+# =========================
+# 腾讯核心业务
+# =========================
+DOMAIN-SUFFIX,qq.com,DIRECT
+DOMAIN-SUFFIX,weixin.qq.com,DIRECT
+DOMAIN-SUFFIX,wx.qq.com,DIRECT
+DOMAIN-SUFFIX,qzone.qq.com,DIRECT
+DOMAIN-SUFFIX,tim.qq.com,DIRECT
+DOMAIN-SUFFIX,tenpay.com,DIRECT
+DOMAIN-SUFFIX,tencent.com,DIRECT
+
+# =========================
+# QQ音乐 / 腾讯视频 / QQ浏览器
+# =========================
+DOMAIN-SUFFIX,music.qq.com,DIRECT
+DOMAIN-SUFFIX,c.qmc.com,DIRECT
+DOMAIN-SUFFIX,qqmusic.qq.com,DIRECT
+DOMAIN-SUFFIX,v.qq.com,DIRECT
+DOMAIN-SUFFIX,live.qq.com,DIRECT
+DOMAIN-SUFFIX,qqbrowser.qq.com,DIRECT
+
+# =========================
+# 微信生态
+# =========================
+DOMAIN-SUFFIX,weixin.com,DIRECT
+DOMAIN-SUFFIX,wximg.cn,DIRECT
+DOMAIN-SUFFIX,weixinimg.com,DIRECT
+DOMAIN-SUFFIX,tenpay.com,DIRECT
+DOMAIN-SUFFIX,wx.qlogo.cn,DIRECT
+DOMAIN-SUFFIX,mp.weixin.qq.com,DIRECT
+
+# =========================
+# QQ IM / 社交
+# =========================
+DOMAIN-SUFFIX,im.qq.com,DIRECT
+DOMAIN-SUFFIX,pay.qq.com,DIRECT
+DOMAIN-SUFFIX,gtimg.com,DIRECT
+DOMAIN-SUFFIX,qpic.cn,DIRECT
+DOMAIN-SUFFIX,open.qq.com,DIRECT
+DOMAIN-SUFFIX,web2.qq.com,DIRECT
+DOMAIN-SUFFIX,qzonestyle.gtimg.cn,DIRECT
+
+# =========================
+# 企业服务
+# =========================
+DOMAIN-SUFFIX,work.weixin.qq.com,DIRECT
+DOMAIN-SUFFIX,larkoffice.com,DIRECT
+DOMAIN-SUFFIX,feishu.cn,DIRECT
+DOMAIN-SUFFIX,exmail.qq.com,DIRECT
+DOMAIN-SUFFIX,qcloud.com,DIRECT
+DOMAIN-SUFFIX,cloud.tencent.com,DIRECT
+
+# =========================
+# 游戏 / 直播
+# =========================
+DOMAIN-SUFFIX,qqgame.qq.com,DIRECT
+DOMAIN-SUFFIX,game.qq.com,DIRECT
+DOMAIN-SUFFIX,ifanr.com,DIRECT
+DOMAIN-SUFFIX,live.qq.com,DIRECT
+DOMAIN-SUFFIX,pvp.qq.com,DIRECT
+
+# =========================
+# 广告 / 数据 / 埋点接口
+# =========================
+DOMAIN-SUFFIX,open.gtimg.com,DIRECT
+DOMAIN-SUFFIX,tcss.qq.com,DIRECT
+DOMAIN-SUFFIX,tdx.qq.com,DIRECT
+DOMAIN-SUFFIX,bat.qq.com,DIRECT
+DOMAIN-SUFFIX,union.qq.com,DIRECT
+
+# =========================
+# CDN / 静态资源
+# =========================
+DOMAIN-SUFFIX,gtimg.cn,DIRECT
+DOMAIN-SUFFIX,qpic.cn,DIRECT
+DOMAIN-SUFFIX,tenimg.com,DIRECT
+DOMAIN-SUFFIX,qqopenapp.com,DIRECT
+DOMAIN-SUFFIX,tenpaylog.com,DIRECT
+DOMAIN-SUFFIX,cdnqq.com,DIRECT
