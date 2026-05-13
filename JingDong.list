@@ -1,0 +1,20 @@
+# =========================
+# JD
+# =========================
+
+# Core
+DOMAIN-SUFFIX,jd.com,DIRECT
+DOMAIN-SUFFIX,jd.hk,DIRECT
+DOMAIN-SUFFIX,jcloud.com,DIRECT
+DOMAIN-SUFFIX,jdcloud.com,DIRECT
+
+# Mall
+DOMAIN-SUFFIX,360buy.com,DIRECT
+DOMAIN-SUFFIX,360buyimg.com,DIRECT
+DOMAIN-SUFFIX,jdstatic.com,DIRECT
+
+# Daojia
+DOMAIN-SUFFIX,jddj.com,DIRECT
+
+# Logistics
+DOMAIN-SUFFIX,jdl.com,DIRECT
