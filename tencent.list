@@ -60,15 +60,6 @@ DOMAIN-SUFFIX,live.qq.com,DIRECT
 DOMAIN-SUFFIX,pvp.qq.com,DIRECT
 
 # =========================
-# 广告 / 数据 / 埋点接口
-# =========================
-DOMAIN-SUFFIX,open.gtimg.com,DIRECT
-DOMAIN-SUFFIX,tcss.qq.com,DIRECT
-DOMAIN-SUFFIX,tdx.qq.com,DIRECT
-DOMAIN-SUFFIX,bat.qq.com,DIRECT
-DOMAIN-SUFFIX,union.qq.com,DIRECT
-
-# =========================
 # CDN / 静态资源
 # =========================
 DOMAIN-SUFFIX,gtimg.cn,DIRECT
