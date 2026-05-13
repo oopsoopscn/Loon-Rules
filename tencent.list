@@ -6,7 +6,6 @@ DOMAIN-SUFFIX,weixin.qq.com,DIRECT
 DOMAIN-SUFFIX,wx.qq.com,DIRECT
 DOMAIN-SUFFIX,qzone.qq.com,DIRECT
 DOMAIN-SUFFIX,tim.qq.com,DIRECT
-DOMAIN-SUFFIX,tenpay.com,DIRECT
 DOMAIN-SUFFIX,tencent.com,DIRECT
 
 # =========================
@@ -45,7 +44,6 @@ DOMAIN-SUFFIX,qzonestyle.gtimg.cn,DIRECT
 # =========================
 DOMAIN-SUFFIX,work.weixin.qq.com,DIRECT
 DOMAIN-SUFFIX,larkoffice.com,DIRECT
-DOMAIN-SUFFIX,feishu.cn,DIRECT
 DOMAIN-SUFFIX,exmail.qq.com,DIRECT
 DOMAIN-SUFFIX,qcloud.com,DIRECT
 DOMAIN-SUFFIX,cloud.tencent.com,DIRECT
